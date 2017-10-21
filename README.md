@@ -2,6 +2,25 @@
 
 This repository contains short summaries of some machine learning papers.
 
+* Added 2017/10/21:
+  * [Snapshot Ensembles: Train 1, get M for free](neural-nets/Snapshot_Ensembles.md)
+  * [Image Crowd Counting Using Convolutional Neural Network and Markov Random Field](neural-nets/Image_Crowd_Counting_using_CNN_and_MRF.md)
+  * [Rainbow: Combining Improvements in Deep Reinforcement Learning](neural-nets/Rainbow.md)
+  * [Learning to Navigate in Complex Environments](neural-nets/Learning_to_Navigate_in_Complex_Environments.md)
+  * [Unsupervised Image-to-Image Translation Networks](neural-nets/Unsupervised_Image-to-Image_Translation_Networks.md)
+  * [Dilated Recurrent Neural Networks](neural-nets/Dilated_Recurrent_Neural_Networks.md)
+  * [Detect to Track and Track to Detect](neural-nets/Detect_to_Track_and_Track_to_Detect.md)
+  * [Dilated Residual Networks](neural-nets/Dilated_Residual_Networks.md)
+
+* Added 2017/09/24:
+  * [Feature Pyramid Networks for Object Detection](neural-nets/Feature_Pyramid_Networks_for_Object_Detection.md)
+  * [SSD: Single Shot MultiBox Detector](neural-nets/SSD.md)
+  * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](neural-nets/MobileNets.md)
+  * [Mask R-CNN](neural-nets/Mask_R-CNN.md)
+
+* Added 2017/08/08:
+  * [Multi-view Face Detection Using Deep Convolutional Neural Networks](neural-nets/Multi-view_Face_Detection_Using_Deep_Convolutional_Neural_Networks.md) (aka DDFD) (thanks, [arnaldog12](https://github.com/arnaldog12))
+
 * Added 2017/06/11:
   * [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](neural-nets/On_The_Effects_of_BN_and_WN_in_GANs.md)
   * [BEGAN](neural-nets/BEGAN.md)
